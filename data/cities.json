@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "origin": "London",
+  "destination": "San Francisco",
+  "fare": 1348.1
+}
+
+{
+  "id": 2,
+  "origin": "Berlin",
+  "destination": "London",
+  "fare": 256.3
+}
+
+{
+  "id": 3,
+  "origin": "Munich",
+  "destination": "Malaga",
+  "fare": 421.7
+}
